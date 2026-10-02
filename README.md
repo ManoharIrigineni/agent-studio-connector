@@ -1,6 +1,6 @@
-# WooCommerce Private Connector for Razorpay Agent Studio
+# WooCommerce Private Connector 
 
-A production-ready merchant connector and Model Context Protocol (MCP) tool integration designed for Razorpay Agent Studio. Enables AI agents to inspect orders, lookup customer purchase histories, and check real-time stock levels with built-in rate-limit resilience.
+A production-ready merchant connector and Model Context Protocol (MCP) tool integration . Enables AI agents to inspect orders, lookup customer purchase histories, and check real-time stock levels with built-in rate-limit resilience.
 
 ---
 
